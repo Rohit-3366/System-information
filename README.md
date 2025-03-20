@@ -18,3 +18,8 @@ Steps to use this command line in command Prompt
 
 Open Command Prompt (Press Windows Key + R, then type cmd and hit Enter).
 Type systeminfo and press Enter.
+
+
+Here is the link of the website for using these command properly and some information of this command line (https://www.dell.com/support/kbdoc/en-ca/000284775/how-to-use-the-systeminfo-command-to-obtain-configuration-information)
+
+https://www.computerhope.com/systemin.htm
